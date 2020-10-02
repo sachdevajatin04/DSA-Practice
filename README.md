@@ -5,5 +5,6 @@ This repository is a collection of different algorithms and data structure. You 
 ### Please follow the contribution style.
 - Use camel case for file naming.
 - Submit the code in the proper folder (topic and language wise).
+- 
 
 ### If you find any issue in any of the code then create an issue and submit the relevant PR.
